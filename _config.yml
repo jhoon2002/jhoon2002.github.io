@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "꿈꾸는 아비"
+title                    : "개발을 위한 정보"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Vue를 중심으로" # site tagline that appears below site title in masthead
 name                     : "여종훈"
-description              : "An amazing website."
+description              : "각종 사이트, 유튜브 등에서 얻은 정보 모음"
 url                      : "https://jhoon2002.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
